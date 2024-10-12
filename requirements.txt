@@ -1,0 +1,11 @@
+llama-index
+llama-index-core==0.10.6.post1
+llama-index-embeddings-openai
+llama-index-postprocessor-flag-embedding-reranker
+git+https://github.com/FlagOpen/FlagEmbedding.git
+llama-parse
+streamlit
+langchain langchain-community langchainhub langchain-openai langchain-chroma bs4 lancedb
+unstructured
+llama-index-vector-stores-lancedb
+llama-index llama-index-core llama-index-embeddings-openai llama-parse
