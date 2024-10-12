@@ -5,7 +5,15 @@ llama-index-postprocessor-flag-embedding-reranker
 git+https://github.com/FlagOpen/FlagEmbedding.git
 llama-parse
 streamlit
-langchain langchain-community langchainhub langchain-openai langchain-chroma bs4 lancedb
+langchain 
+langchain-community 
+langchainhub 
+langchain-openai 
+langchain-chroma 
+lancedb
 unstructured
 llama-index-vector-stores-lancedb
-llama-index llama-index-core llama-index-embeddings-openai llama-parse
+llama-index 
+llama-index-core 
+llama-index-embeddings-openai 
+llama-parse
